@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a clinical scientist in medical physics at Christie Hospital in
+I am a clinical scientist in medical physics at Christie Hospital,
 Manchester, UK. This site is a personal repository for my research publications and
 presentations, focussing on image-guided radiotherapy (IGRT) and cone-beam
 CT (CBCT).
