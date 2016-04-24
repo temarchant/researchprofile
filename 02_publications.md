@@ -21,7 +21,7 @@ Oral Presentation, Imaging and Computer Assistance in Radiation Therapy
 Workshop, Medical Image Computing and Computer Assisted Interventions
 (MICCAI), Munich, Germany, 5-9 October 2015.  
 Proceedings: <https://hal.archives-ouvertes.fr/hal-01264358>  
-[PDF]({{ site.url }}/assets/pdf/joshi-fast-processing-miccai-icart-2015.pdf)
+[PDF]({{ site.baseurl }}/assets/pdf/joshi-fast-processing-miccai-icart-2015.pdf)
 
 *2D and 3D approximate entropy algorithms for on-line quantification of
 threshold structure content in large radiotherapy image data*  
