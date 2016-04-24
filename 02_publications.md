@@ -63,7 +63,7 @@ Rogers, C. Rowbottom
 Physics in Medicine and Biology, 57 (12) p3727-3739 (2012).  
 doi:
 [10.1088/0031-9155/57/12/3727](http://dx.doi.org/10.1088/0031-9155/57/12/3727)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/boylan_2012.pdf "Boylan_2012")
+[PDF]({{ site.baseurl }}/assets/pdf/boylan_2012.pdf)
 
 *Quantifying motion for pancreatic radiotherapy margin calculation*  
 G Whitfield, P Jain, M Green, G Watkins, A Henry, J Stratford, A Amer, T
@@ -77,7 +77,7 @@ projection images*
 TE Marchant, A Skalski, BJ Matuszewski  
 Medical Physics, 39 (3) p1322-1334 (2012)  
 doi: [10.1118/1.3684959](http://dx.doi.org/10.1118/1.3684959)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/tracking_final_ownformat.pdf "Tracking_final_ownformat")
+[PDF]({{ site.baseurl }}/assets/pdf/tracking_final_ownformat.pdf)
 
 *Monitoring Dosimetric Impact of Weight Loss with Kilovoltage (KV) Cone
 Beam CT (CBCT) during Parotid-sparing IMRT and Concurrent Chemotherapy*  
@@ -105,7 +105,7 @@ projection images*
 Marchant TE, Price GJ, Matuszewski BJ, Moore CJ  
 British Journal of Radiology, 84 p251-264 (2011).  
 doi:[10.1259/bjr/90983944](http://dx.doi.org/10.1259/bjr/90983944)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/localmotioncorrection_final_ownformat.pdf "LocalMotionCorrection_final_ownformat")
+[PDF]({{ site.baseurl }}/assets/pdf/localmotioncorrection_final_ownformat.pdf)
 
 *Quantifying structure regularity in fluorescence microscopy cell images
 using a novel multi-dimensional Approximate Entropy metric*  
@@ -114,7 +114,7 @@ IEEE International Conference on Image Processing (ICIP), Brussels,
 Belgium, September 2011.  
 doi:
 [10.1109/ICIP.2011.6116317](http://dx.doi.org/10.1109/ICIP.2011.6116317)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/ieee-icip-apen_final-ownformat.pdf "IEEE-ICIP-ApEn_final-ownformat")
+[PDF]({{ site.baseurl }}/assets/pdf/ieee-icip-apen_final-ownformat.pdf)
 
 *Segmentation of Cellular Structures in Actin Tagged Fluorescence
 Confocal Microscopy Images*  
@@ -181,7 +181,7 @@ UK.
 Abstracted in Radiotherapy & Oncology, 99 (S1) ppS457 (2011)  
 doi:
 [10.1016/S0167-8140(11)71350-0](http://dx.doi.org/10.1016/S0167-8140(11)71350-0)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/estro2011_poster_marchant.pdf "ESTRO2011_Poster_Marchant")
+[PDF]({{ site.baseurl }}/assets/pdf/estro2011_poster_marchant.pdf)
 
 *Megavoltage CT from electronic portal imaging of VMAT deliveries*  
 J Wood, T Marchant, G Budgell  
@@ -235,7 +235,7 @@ Poster presentation at ESTRO 29, Barcelona, Spain, 12-16th September
 Abstracted in Radiotherapy & Oncology, 96 (S1) pS426  
 doi:
 [10.1016/S0167-8140(10)80071-4](http://dx.doi.org/10.1016/S0167-8140(10)80071-4)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/estro_poster_marchant.pdf "ESTRO_poster_Marchant")
+[PDF]({{ site.baseurl }}/assets/pdf/estro_poster_marchant.pdf)
 
 *Accuracy of setup measurement by kV cone beam CT and orthogonal imaging
 in a study of optical sensor setup measurement*  
@@ -245,7 +245,8 @@ Poster presentation at ESTRO 29, Barcelona, Spain, 12-16th September
 2010  
 Abstracted in Radiotherapy & Oncology, 96 (S1) pS524  
 doi:
-[10.1016/S0167-8140(10)80077-5](http://dx.doi.org/10.1016/S0167-8140(10)80077-5)  
+[10.1016/S0167-8140(10)80077-5](http://dx.doi.org/10.1016/S0167-8140(10)80077-5)
+
 *Differential processing of structured light projections for dynamic
 optical body surface sensing during radiation therapy*  
 Moore CJ, Price GJ, Marchant T, Sharrock PJ, Parkhurst J  
@@ -305,7 +306,7 @@ Abstracted in International Journal of Computer Assisted Radiology and
 Surgery, 4 (S1) S27-28  
 doi:
 [10.1007/s11548-009-0309-y](http://dx.doi.org/10.1007/s11548-009-0309-y)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/marchant_cbct-optical_sync.pdf "Marchant_CBCT-Optical_sync")
+[PDF]({{ site.baseurl }}/assets/pdf/marchant_cbct-optical_sync.pdf)
 
 *A novel approach to measurement of patient motion during radiotherapy
 treatment delivery using an optical surface sensor*  
@@ -340,7 +341,7 @@ Abstracted in International Journal of Radiation Oncology Biology
 Physics, 75 (3) S1 pS97-98  
 doi:
 [10.1016/j.ijrobp.2009.07.239](http://dx.doi.org/10.1016/j.ijrobp.2009.07.239)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/vmat_xvi.pdf "VMAT_XVI")
+[PDF]({{ site.baseurl }}/assets/pdf/vmat_xvi.pdf)
 
 *Combined use of Bellyboard and IMRT Results in Maximal Small Bowel
 Sparing in Rectal Cancer Radiotherapy*  
@@ -370,7 +371,7 @@ Marchant T, Moore C, Rowbottom C, Mackay R, Williams P
 Physics in Medicine and Biology 53 5719-5733 (2008).  
 doi:
 [10.1088/0031-9155/53/20/010](http://dx.doi.org/10.1088/0031-9155/53/20/010)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/marchant_shadingcorr_final_ownformat.pdf "Marchant_ShadingCorr_final_ownformat")
+[PDF]({{ site.baseurl }}/assets/pdf/marchant_shadingcorr_final_ownformat.pdf)
 
 *Measurement of inter and intra fraction organ motion in radiotherapy
 using cone beam CT projection images*  
@@ -378,7 +379,7 @@ Marchant T, Amer A and Moore C
 Physics in Medicine and Biology 53 1087-98 (2008)  
 doi:
 [10.1088/0031-9155/53/4/018](http://dx.doi.org/10.1088/0031-9155/53/4/018)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/marchant_seedmotion_final_ownformat.pdf "Marchant_seedMotion_final_ownformat")
+[PDF]({{ site.baseurl }}/assets/pdf/marchant_seedmotion_final_ownformat.pdf)
 
 *Quantifying Breast Thickness for Density Measurement*  
 Diffey J, Hufton A, Beeston C, Smith J, Marchant T and Astley S  
@@ -423,7 +424,7 @@ doi: [10.1118/1.2962252](http://dx.doi.org/10.1118/1.2962252)
 Amer A, Marchant T, Sykes J, Czajka J and Moore C  
 The British Journal of Radiology, 80 476-82 (2007)  
 doi: [10.1259/bjr/80446730](http://dx.doi.org/10.1259/bjr/80446730)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/cbct_dose_bjr_amer.pdf "CBCT_Dose_BJR_Amer")
+[PDF]({{ site.baseurl }}/assets/pdf/cbct_dose_bjr_amer.pdf)
 
 *A case study highlighting the benefits of a novel three dimensional
 evidence driven, shape model supported, segmentation algorithm*  
@@ -453,7 +454,7 @@ Radiation Technology for Clinical Radiotherapy, Barcelona, September
 Abstracted in Radiotherapy & Oncology 84(S1) S172  
 doi:
 [10.1016/S0167-8140(07)80286-6](http://dx.doi.org/10.1016/S0167-8140(07)80286-6)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/estro_igrt_workflow_poster.pdf "ESTRO_IGRT_Workflow_poster")
+[PDF]({{ site.baseurl }}/assets/pdf/estro_igrt_workflow_poster.pdf)
 
 *Respiratory Intrafraction Motion is an Important Source of Error in
 Radiotherapy to Oesophago-gastric Junction (OGJ) Cancers*  
@@ -525,7 +526,7 @@ Moore CJ, Marchant TE and Amer AM
 Physics in Medicine and Biology 51(9) 2191 (2006)  
 doi:
 [10.1088/0031-9155/51/9/005](http://dx.doi.org/10.1088/0031-9155/51/9/005)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/zonalpaper_final_ownformat.pdf "ZonalPaper_final_ownformat")
+[PDF]({{ site.baseurl }}/assets/pdf/zonalpaper_final_ownformat.pdf)
 
 *Developments in and Experience of Kilo-voltage, X-ray Cone Beam, Image
 Guided Radiotherapy, Image Guided Radiotherapy*  
@@ -548,7 +549,8 @@ Marchant T, Jain P, Baker S, Davies J, Moore C
 Poster presentation at ESTRO 25, Leipzig, October 2006  
 Abstracted in Radiotherapy & Oncology 81 (S1) S216, 2006  
 doi:
-[10.1016/S0167-8140(06)81019-4](http://dx.doi.org/10.1016/S0167-8140(06)81019-4)
+[10.1016/S0167-8140(06)81019-4](http://dx.doi.org/10.1016/S0167-8140(06)81019-4)  
+[PDF]({{ site.baseurl }}/assets/pdf/ESTRO_BreastXVI_poster.pdf)
 
 *Verification kilovoltage cone beam CT (CBCT) in monitoring delivered
 doses and dose guided radiotherapy in oesophago-gastric cancers*  
@@ -706,9 +708,9 @@ Chapel Hill USA, June 18-21 2004.
 Marchant, T. E.  
 MSc Thesis, University of Manchester, 2002
 
-*Search for new physics using acoplanar lepton pair events in   [e plus e
-minus  ] collisions at   [root s equals  ] 183-208 GeV*  
+*Search for new physics using acoplanar lepton pair events in [e plus e
+minus] collisions at [root s] = 183-208 GeV*  
 Marchant, T. E.  
 PhD Thesis, University of Manchester, 2002.  
 (<http://www.hep.man.ac.uk/theses/TomMarchant.pdf>)  
-[PDF](https://temarchant.files.wordpress.com/2016/04/tommarchant-phd.pdf "TomMarchant-PhD")
+[PDF]({{ site.baseurl }}/assets/pdf/tommarchant-phd.pdf)
