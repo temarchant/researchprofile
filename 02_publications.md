@@ -97,6 +97,12 @@ Abstracted in Radiotherapy & Oncology, 103 (S1) pS91 (2012).
 doi:
 [10.1016/S0167-8140(12)70570-4](http://dx.doi.org/10.1016/S0167-8140(12)70570-4)
 
+*Motion correction of cone beam computed tomography (CBCT) by optical surface
+tracking*  
+N Swindells, T Marchant, P Sharrock, G Price, J Parkhurst, C Moore  
+Oral presentation at UK Radiological Congress 2012 (UKRC), 25-27 June 2012,
+Manchester, UK.
+
 2011
 ----
 
