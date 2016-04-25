@@ -712,7 +712,8 @@ Chapel Hill USA, June 18-21 2004.
 
 *Calibrating densities in mammography*  
 Marchant, T. E.  
-MSc Thesis, University of Manchester, 2002
+MSc Thesis, University of Manchester, 2002  
+[PDF]({{ site.baseurl }}/assets/pdf/Marchant_MSc_Thesis.pdf)
 
 *Search for new physics using acoplanar lepton pair events in [e plus e
 minus] collisions at [root s] = 183-208 GeV*  
