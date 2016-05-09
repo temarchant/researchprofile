@@ -8,8 +8,7 @@ PDFs of some articles are provided below for personal use only.
 Copyright belongs to either the publisher or author of the article.
 
 See also my [Google Scholar
-profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and [Manchester
-eScholar publications
+profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and [Manchester publications
 list](http://www.manchester.ac.uk/research/thomas.marchant/publications).
 
 2015
