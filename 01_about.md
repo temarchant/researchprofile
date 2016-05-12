@@ -10,8 +10,8 @@ presentations, focussing on image-guided radiotherapy (IGRT) and cone-beam
 CT (CBCT).
 
 See also my [Google Scholar
-profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and [Manchester
-eScholar publications
+profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and 
+[Manchester publications
 list](http://www.manchester.ac.uk/research/thomas.marchant/publications).
 
 *Clinical Scientist*  
