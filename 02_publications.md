@@ -50,7 +50,7 @@ doi:
 *CBCT image quality variation with patient size and imaging dose*  
 T Marchant  
 Oral presentation, IPEM X-ray imaging in radiotherapy, Birmingham, 21
-April 2015.
+April 2015.  
 [slides](http://www.ipem.ac.uk/Portals/0/Documents/Conferences/2015/312%20X-Ray%20Imaging%20in%20Radiotherapy/Tom%20Marchant.pdf)
 
 2012
