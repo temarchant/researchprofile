@@ -11,6 +11,15 @@ See also my [Google Scholar
 profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and [Manchester publications
 list](http://www.manchester.ac.uk/research/thomas.marchant/publications).
 
+2016
+----
+
+*Comprehensive Monte Carlo study of patient doses from cone-beam CT imaging in
+radiotherapy*  
+T Marchant, K Joshi  
+Journal of Radiological Protection, Accepted/In Press, November 2016.  
+[Accepted version (PDF)]({{ site.baseurl }}/assets/pdf/marchant_comprehensive_2016.pdf)
+
 2015
 ----
 
