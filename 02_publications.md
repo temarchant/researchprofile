@@ -18,7 +18,7 @@ list](http://www.manchester.ac.uk/research/thomas.marchant/publications).
 radiotherapy*  
 T Marchant, K Joshi  
 Journal of Radiological Protection, 37 p13-30 (2017).  
-[10.1088/1361-6498/37/1/13](http://dx.doi.org/10.1088/1361-6498/37/1/13)
+[10.1088/1361-6498/37/1/13](http://dx.doi.org/10.1088/1361-6498/37/1/13)  
 [PDF]({{ site.baseurl }}/assets/pdf/marchant_comprehensive_2016.pdf)
 
 2015
