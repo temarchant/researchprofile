@@ -17,8 +17,9 @@ list](http://www.manchester.ac.uk/research/thomas.marchant/publications).
 *Comprehensive Monte Carlo study of patient doses from cone-beam CT imaging in
 radiotherapy*  
 T Marchant, K Joshi  
-Journal of Radiological Protection, Accepted/In Press, November 2016.  
-[Accepted version (PDF)]({{ site.baseurl }}/assets/pdf/marchant_comprehensive_2016.pdf)
+Journal of Radiological Protection, 37 p13-30 (2017).  
+[10.1088/1361-6498/37/1/13](http://dx.doi.org/10.1088/1361-6498/37/1/13)
+[PDF]({{ site.baseurl }}/assets/pdf/marchant_comprehensive_2016.pdf)
 
 2015
 ----
