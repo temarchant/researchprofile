@@ -12,7 +12,7 @@ CT (CBCT).
 See also my [Google Scholar
 profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and 
 [Manchester publications
-list](http://www.manchester.ac.uk/research/thomas.marchant/publications).
+list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchant(962e3f0a-0217-4d2b-8028-22943cb08a9e)/publications.html).
 
 *Clinical Scientist*  
 Developing Technologies Research Group  
@@ -25,4 +25,4 @@ Manchester, UK
 Manchester Academic Health Science Centre  
 Institute of Cancer Sciences  
 The University of Manchester, UK  
-[Link](http://www.manchester.ac.uk/research/thomas.marchant)
+[Link](https://www.research.manchester.ac.uk/portal/Thomas.Marchant.html)

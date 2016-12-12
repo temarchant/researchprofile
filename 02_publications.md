@@ -9,7 +9,7 @@ Copyright belongs to either the publisher or author of the article.
 
 See also my [Google Scholar
 profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and [Manchester publications
-list](http://www.manchester.ac.uk/research/thomas.marchant/publications).
+list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchant(962e3f0a-0217-4d2b-8028-22943cb08a9e)/publications.html).
 
 2016
 ----
