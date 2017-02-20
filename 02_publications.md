@@ -11,6 +11,19 @@ See also my [Google Scholar
 profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and [Manchester publications
 list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchant(962e3f0a-0217-4d2b-8028-22943cb08a9e)/publications.html).
 
+2017
+----
+
+*Shading correction for cone-beam CT in radiotherapy: validation of dose
+calculation accuracy using clinical images*  
+T Marchant, K Joshi, C Moore  
+Proc SPIE 10132, Medical Imaging 2017: Physics of Medical Imaging (2017).  
+
+*Shading correction for cone-beam CT in radiotherapy: extensive clinical
+validation of image quality improvement*  
+K Joshi, T Marchant, C Moore  
+Proc SPIE 10132, Medical Imaging 2017: Physics of Medical Imaging (2017).  
+
 2016
 ----
 
