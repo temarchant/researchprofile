@@ -167,8 +167,7 @@ doi:
 Radiotherapy*  
 James Parkhurst, Gareth Price, Phil Sharrock, Tom Marchant, Christopher
 Moore  
-33rd Annual International IEEE EMBS Conference, Boston, USA, August
-2011.  
+33rd Annual International IEEE EMBS Conference, Boston, USA, August 2011.  
 doi:
 [10.1109/IEMBS.2011.6091524](http://dx.doi.org/10.1109/IEMBS.2011.6091524)
 
@@ -470,8 +469,7 @@ Meeting), London, 28-29 November 2007.
 *Image Processing in Measurement Guided radiation Therapy*  
 Moore C, Marchant T, Price G, Burton D and Matuszewski B  
 Oral presentation at Multidisciplinary Workshop on “Image Processing
-Techniques and Applications”, University of Liverpool, 28 November
-2007.  
+Techniques and Applications”, University of Liverpool, 28 November 2007.  
 (see <http://www.liv.ac.uk/~cmchenke/imagew/abs.pdf>).
 
 *Image-guided radiotherapy workflow for dose based patient verification
