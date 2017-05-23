@@ -20,7 +20,7 @@ E. Seravalli, M. Bosman, G. Smyth, T. Ajithkumar, C. Alapetite, M. Christiaens,
 M. Evensen, C-S. Fuentes, L. Gandola, E. Garnier, F. Goudjil, B. Hoeben,
 G. Horan, E. Koutsouveli , M. Kusters, Y. Lassen, S. Losa, H. Magelssen,
 T. Marchant, H.C. Mandeville, S. Meroni, F. Oldenburger, L. Padovani,
-C. Paraskevopoulou, R. Righetto, B. Rombi, F. Saran, K. Seiersen, , J. Visser,
+C. Paraskevopoulou, R. Righetto, B. Rombi, F. Saran, K. Seiersen, J. Visser,
 G. Whitfield, M. Schwarz, A. Vestergaard, G.O. Janssens  
 Oral presentation, ESTRO 36, 5-9 May 2017, Vienna, Austria.  
 Abstracted in Radiotherapy & Oncology, 123 (S1) S181 (2017).
