@@ -14,6 +14,24 @@ list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchan
 2017
 ----
 
+*Comparing cranio spinal irradiation planning for photon and proton techniques
+at 15 European centers*  
+E. Seravalli, M. Bosman, G. Smyth, T. Ajithkumar, C. Alapetite, M. Christiaens,
+M. Evensen, C-S. Fuentes, L. Gandola, E. Garnier, F. Goudjil, B. Hoeben,
+G. Horan, E. Koutsouveli , M. Kusters, Y. Lassen, S. Losa, H. Magelssen,
+T. Marchant, H.C. Mandeville, S. Meroni, F. Oldenburger, L. Padovani,
+C. Paraskevopoulou, R. Righetto, B. Rombi, F. Saran, K. Seiersen, , J. Visser,
+G. Whitfield, M. Schwarz, A. Vestergaard, G.O. Janssens  
+Oral presentation, ESTRO 36, 5-9 May 2017, Vienna, Austria.  
+Abstracted in Radiotherapy & Oncology, 123 (S1) S181 (2017).
+
+*Feasibility of low dose 4D CBCT in patients with lung cancer*  
+A. Bryce-Atkinson, A. McWilliam, T. Marchant, C. Faivre-Finn, G. Whitfield,
+M. Van Herk  
+Poster presentation, ESTRO 36, 5-9 May 2017, Vienna, Austria.  
+Abstracted in Radiotherapy & Oncology, 123 (S1) S939 (2017).  
+[link](http://www.postersessiononline.com/173580348_eu/congresos/estro36/aula/-EP_1713_ESTRO36.pdf)
+
 *Shading correction for cone-beam CT in radiotherapy: validation of dose
 calculation accuracy using clinical images*  
 T Marchant, K Joshi, C Moore  
