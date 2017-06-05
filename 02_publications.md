@@ -14,6 +14,14 @@ list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchan
 2017
 ----
 
+*The approximate entropy concept extended to three dimensions for calibrated,
+single parameter structural complexity interrogation of volumetric images*  
+Christopher J Moore and Tom Marchant  
+Physics in Medicine & Biology, Accepted manuscript online 30 May 2017.  
+[10.1088/1361-6560/aa75b0](https://doi.org/10.1088/1361-6560/aa75b0)  
+[PDF]({{ site.baseurl }}/assets/pdf/apen3d_PMB_accepted_May2017.pdf)
+
+
 *Comparing cranio spinal irradiation planning for photon and proton techniques
 at 15 European centers*  
 E. Seravalli, M. Bosman, G. Smyth, T. Ajithkumar, C. Alapetite, M. Christiaens,
