@@ -30,13 +30,15 @@ T. Marchant, H.C. Mandeville, S. Meroni, F. Oldenburger, L. Padovani,
 C. Paraskevopoulou, R. Righetto, B. Rombi, F. Saran, K. Seiersen, J. Visser,
 G. Whitfield, M. Schwarz, A. Vestergaard, G.O. Janssens  
 Oral presentation, ESTRO 36, 5-9 May 2017, Vienna, Austria.  
-Abstracted in Radiotherapy & Oncology, 123 (S1) S181 (2017).
+Abstracted in Radiotherapy & Oncology, 123 (S1) S181 (2017).  
+[10.1016/S0167-8140(17)30787-9](https://doi.org/10.1016/S0167-8140(17)30787-9)
 
 *Feasibility of low dose 4D CBCT in patients with lung cancer*  
 A. Bryce-Atkinson, A. McWilliam, T. Marchant, C. Faivre-Finn, G. Whitfield,
 M. Van Herk  
 Poster presentation, ESTRO 36, 5-9 May 2017, Vienna, Austria.  
 Abstracted in Radiotherapy & Oncology, 123 (S1) S939 (2017).  
+[10.1016/S0167-8140(17)32245-4](https://doi.org/10.1016/S0167-8140(17)32245-4)  
 [link](http://www.postersessiononline.com/173580348_eu/congresos/estro36/aula/-EP_1713_ESTRO36.pdf)
 
 *Shading correction for cone-beam CT in radiotherapy: validation of dose
