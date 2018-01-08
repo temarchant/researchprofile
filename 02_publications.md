@@ -11,6 +11,15 @@ See also my [Google Scholar
 profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and [Manchester publications
 list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchant(962e3f0a-0217-4d2b-8028-22943cb08a9e)/publications.html).
 
+2018
+----
+
+*Iterative peak combination: A robust technique for identifying relevant
+features in medical image histograms*  
+K Joshi and T Marchant  
+Biomedical Physics & Engineering Express **4** (2018) 015002.  
+[10.1088/2057-1976/aa929d](https://doi.org/10.1088/2057-1976/aa929d)
+
 2017
 ----
 
