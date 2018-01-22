@@ -23,12 +23,6 @@ Biomedical Physics & Engineering Express **4** (2018) 015002.
 2017
 ----
 
-*Iterative peak combination: A robust technique for identifying relevant
-features in medical image histograms*  
-K Joshi and T Marchant  
-Biomedical Physics & Engineering Express (2017).  
-[10.1088/2057-1976/aa929d](https://doi.org/10.1088/2057-1976/aa929d)
-
 *The approximate entropy concept extended to three dimensions for calibrated,
 single parameter structural complexity interrogation of volumetric images*  
 Christopher J Moore and Tom Marchant  
