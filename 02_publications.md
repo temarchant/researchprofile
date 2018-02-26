@@ -17,7 +17,7 @@ list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchan
 *Accuracy of radiotherapy dose calculations based on cone-beam CT: comparison
 of deformable registration and image correction based methods*  
 T Marchant, K Joshi and C Moore  
-Physics and Biology in Medicine (2018).  
+Physics in Medicine & Biology (2018).  
 [10.1088/1361-6560/aab0f0](https://doi.org/10.1088/1361-6560/aab0f0)  
 [PDF]({{ site.baseurl }}/assets/pdf/marchant-corrected-cbct-deformable-PMB_2018.pdf)
 
