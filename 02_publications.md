@@ -14,17 +14,28 @@ list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchan
 2018
 ----
 
+*Dosimetric comparison of five different techniques for craniospinal
+irradiation across 15 European centers: Analysis on behalf of the SIOP-E-BTG
+(radiotherapy working group)*  
+E Seravalli, M Bosman, Y Lassen-Ramshad, A Vestergaard, F Oldenburger, J Visser,
+E Koutsouveli, C Paraskevopoulou, G Horan, T Ajithkumar, B Timmermann,
+C Fuentes, G Whitfield, T Marchant, L Padovani, E Garnier, L Gandola, S Meroni,
+B Hoeben, M Kusters, C Alapetite, S Losa, F Goudjil, H Magelssen, M Evensen,
+F Saran, G Smyth, B Rombi, R Righetto, R Kortmann, G Janssens  
+Acta Oncologia, In press (2018).  
+[10.1080/0284186X.2018.1465588](https://doi.org/10.1080/0284186X.2018.1465588)
+
 *Accuracy of radiotherapy dose calculations based on cone-beam CT: comparison
 of deformable registration and image correction based methods*  
 T Marchant, K Joshi and C Moore  
-Physics in Medicine & Biology (2018).  
+Physics in Medicine & Biology **63** 065003 (2018).  
 [10.1088/1361-6560/aab0f0](https://doi.org/10.1088/1361-6560/aab0f0)  
 [PDF]({{ site.baseurl }}/assets/pdf/marchant-corrected-cbct-deformable-PMB_2018.pdf)
 
 *Iterative peak combination: A robust technique for identifying relevant
 features in medical image histograms*  
 K Joshi and T Marchant  
-Biomedical Physics & Engineering Express **4** (2018) 015002.  
+Biomedical Physics & Engineering Express **4** 015002 (2018).  
 [10.1088/2057-1976/aa929d](https://doi.org/10.1088/2057-1976/aa929d)
 
 2017
