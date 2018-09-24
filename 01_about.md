@@ -15,7 +15,7 @@ profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and 
 list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchant(962e3f0a-0217-4d2b-8028-22943cb08a9e)/publications.html).
 
 *Clinical Scientist*  
-Developing Technologies Research Group  
+Radiotherapy Physics Group  
 Christie Medical Physics and Engineering  
 The Christie NHS Foundation Trust  
 Manchester, UK  
