@@ -18,7 +18,7 @@ list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchan
 T Marchant, M Ward, P Whitehurst  
 Oral Presentation, IPEM Medical Physics & Engineering Conference (MPEC),
 York, UK, 18-20 September 2018.  
-Proceedings: <https://www.ipem.ac.uk/Portals/0/Documents/Conferences/2018/MPEC18/MPEC%202018%20abstract%20book%20v2.pdf?ver=2018-08-30-143755-707>  
+[Proceedings link](https://www.ipem.ac.uk/Portals/0/Documents/Conferences/2018/MPEC18/MPEC%202018%20abstract%20book%20v2.pdf?ver=2018-08-30-143755-707)  
 [PDF abstract]({{ site.baseurl }}/assets/pdf/MPEC_2018_abstract.pdf)
 
 *Dosimetric comparison of five different techniques for craniospinal
