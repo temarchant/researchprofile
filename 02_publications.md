@@ -11,6 +11,14 @@ See also my [Google Scholar
 profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and [Manchester publications
 list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchant(962e3f0a-0217-4d2b-8028-22943cb08a9e)/publications.html).
 
+2019
+----
+
+*Quantitative evaluation of 4D Cone beam CT scans with reduced scan time in lung cancer patients*  
+Abigail Bryce-Atkinson, Thomas Marchant, John Rodgers, Geoff Budgell, Alan McWilliam, Corinne Faivre-Finn, Gillian Whitfield, Marcel van Herk  
+Radiotherapy & Oncolgy **136** 64-70 (2019).  
+[10.1016/j.radonc.2019.03.027](https://doi.org/10.1016/j.radonc.2019.03.027)  
+
 2018
 ----
 
