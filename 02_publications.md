@@ -801,6 +801,12 @@ Astley, S., A. Hufton, T. Marchant
 Proceedings of 7th International Workshop on Digital Mammography (IWDM),
 Chapel Hill USA, June 18-21 2004.
 
+*Search for anomalous production of di-lepton events with missing transverse
+momentum in e<sup>+</sup>  e<sup>-</sup> collisions at √s=183-209 GeV*  
+The Opal Collaboration  
+The European Physical Journal C, 32 (4) 453-473  
+doi: [10.1140/epjc/x2003-01466-y](https://doi.org/10.1140/epjc/s2003-01466-y)  
+
 2002
 ----
 
