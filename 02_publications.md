@@ -11,6 +11,14 @@ See also my [Google Scholar
 profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and [Manchester publications
 list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchant(962e3f0a-0217-4d2b-8028-22943cb08a9e)/publications.html).
 
+2021
+----
+
+*Low dose cone beam CT for paediatric image-guided radiotherapy: image quality and practical recommendations*  
+Abigail Bryce-Atkinson, Rianne de Jong, Tom Marchant, Gillian Whitfield, Marianne Aznar, Arjan Bel, Marcel van Herk  
+Radiotherapy & Oncolgy **163** 68-75 (2021).  
+[10.1016/j.radonc.2021.07.027](https://doi.org/10.1016/j.radonc.2021.07.027)  
+
 2019
 ----
 
