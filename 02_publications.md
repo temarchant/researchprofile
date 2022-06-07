@@ -11,6 +11,21 @@ See also my [Google Scholar
 profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and [Manchester publications
 list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchant(962e3f0a-0217-4d2b-8028-22943cb08a9e)/publications.html).
 
+2022
+----
+
+*Considerations for the Clinical Implementation of MR-Guided ART for Lung Cancer*  
+E Pitt, A Clough, C Nelder, R Benson, L McDaid, L Whiteside, L Davies, J Parker, T Awofisoye, L Freear, R Chuter, J Berresford, T Marchant, C Crockett, A Salem, C Faivre-Finn, C Eccles  
+RTi3, University of Toronto, 27-28 May 2022  
+Jounral of Medical Imaging and Radiation Sciences **53** (2) S15 (2022).  
+[10.1016/j.jmir.2022.04.041](https://doi.org/10.1016/j.jmir.2022.04.041)  
+
+*Considerations for the Clinical Implementation of MR-Guided ART for H&N Cancer*  
+E Pitt, A Clough, C Nelder, R Benson, L McDaid, L Whiteside, L Davies, J Parker, T Awofisoye, L Freear, R Chuter, J Berresford, T Marchant, A McPartlin, C Eccles  
+RTi3, University of Toronto, 27-28 May 2022  
+Jounral of Medical Imaging and Radiation Sciences **53** (2) S8-9 (2022).  
+[10.1016/j.jmir.2022.04.025](https://doi.org/10.1016/j.jmir.2022.04.025)  
+
 2021
 ----
 
