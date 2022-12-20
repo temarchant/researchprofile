@@ -14,6 +14,11 @@ list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchan
 2022
 ----
 
+*Role of real-world data in assessing cardiac toxicity after lung cancer radiotherapy*  
+Azedah Abravan, Gareth Price, Kathryn Banfill, Tom Marchant, Matthew Craddock, Joe Wood, Marianne Aznar, Alan McWilliam, Marcel van Herk, Corinne Faivre-Finn  
+Frontiers In Oncology **12**:934369 (2022).  
+[10.3389/fonc.2022.934369](https://doi.org/10.3389/fonc.2022.934369)   
+
 *Considerations for the Clinical Implementation of MR-Guided ART for Lung Cancer*  
 E Pitt, A Clough, C Nelder, R Benson, L McDaid, L Whiteside, L Davies, J Parker, T Awofisoye, L Freear, R Chuter, J Berresford, T Marchant, C Crockett, A Salem, C Faivre-Finn, C Eccles  
 RTi3, University of Toronto, 27-28 May 2022  
@@ -25,6 +30,16 @@ E Pitt, A Clough, C Nelder, R Benson, L McDaid, L Whiteside, L Davies, J Parker,
 RTi3, University of Toronto, 27-28 May 2022  
 Jounral of Medical Imaging and Radiation Sciences **53** (2) S8-9 (2022).  
 [10.1016/j.jmir.2022.04.025](https://doi.org/10.1016/j.jmir.2022.04.025)  
+
+*Considerations for the clinical implementation of MRI-guided ART for H&N and lung cancers*  
+A Clough, E Pitt, C Nelder, R Benson, L McDaid, L Whiteside, L Davies, J Parker, T Awofisoye, L Freear, J Berresford, T Marchant, A McPartlin, C Crockett, A Salem, D Cobben, C Eccles  
+Radiotherapy & Oncology **170** (S1) S364-S366 (2022).  
+[10.1016/S0167-8140(22)02556-7](https://doi.org/10.1016/S0167-8140(22)02556-7)  
+
+*Experience with the first three lung cancer patients to receive magnetic resonance (MR)-guided radiotherapy on the Elekta Unity MR-Linac in the United Kingdom (UK)*  
+Cathryn Crockett, Rebecca Benson, Joe Berresford, Robert Chuter, Abigael Clough, Corinne Faivre-Finn, Linnea Freear, Tom Marchant, Claire Nelder, Eleanor Pitt, Ahmed Salem  
+Lung Cancer **165** (S1) S50-S51 (2022).  
+[10.1016/S0169-5002(22)00154-4](https://doi.org/10.1016/S0169-5002(22)00154-4)  
 
 2021
 ----
