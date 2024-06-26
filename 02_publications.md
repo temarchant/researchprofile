@@ -11,6 +11,63 @@ See also my [Google Scholar
 profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and [Manchester publications
 list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchant(962e3f0a-0217-4d2b-8028-22943cb08a9e)/publications.html).
 
+2024
+----
+
+*Assessment of heart-substructures auto-contouring accuracy for application in 
+heart-sparing radiotherapy for lung cancer*  
+T Marchant, G Price, A McWilliam, E Henderson, D McSweeney, M van Herk, 
+K Banfill, M Schmitt, J King, C Barker, C Faivre-Finn  
+BJR|Open **6** (1) tzae006 (2024)  
+[10.1093/bjro/tzae006](https://doi.org/10.1093/bjro/tzae006)  
+
+*Clinical implementation of base of heart sparing for lung radiotherapy: effect on OAR doses*  
+T Marchant, G Price, A McWilliam, J Wood, K Banfill, C Faivre-Finn  
+Oral presentation at ESTRO 2024, Glasgow, UK, May 2024.  
+
+*Performance of a heart substructures autocontouring tool after clinical implementation*  
+T Marchant, G Price, A McWilliam, K Banfill, M van Herk, C Faivre-Finn  
+Poster presentation at ESTRO 2024, Glasgow, UK, May 2024.  
+
+*Continuous monitoring using real-world data: Changes in organ at risk doses in lung 
+radiotherapy following introduction of a heart-sparing planning technique*  
+T Marchant, G Price, A McWilliam, J Wood, K Banfill, C Faivre-Finn  
+Poster presentation at CRUK data driven conference, Manchester UK, February 2024.  
+
+2023
+----
+
+*Implementing heart-sparing radiotherapy for lung cancer*  
+T Marchant, G Price, A McWilliam, M Van Herk, J Wood, C Harris, J King, K Banfill, C Faivre-Finn  
+Poster presentation at 21st Annual British Thoracic Oncology Group Conference, Belfast, April 2023.  
+Abstracted in Lung Cancer **178** (S1) S55 (2023).  
+[10.1016/S0169-5002(23)00555-X](https://doi.org/10.1016/S0169-5002(23)00555-X)  
+
+*The RAPID-RT study: gauging opinions on the balance between improved survival and acceptable 
+toxicities after radiotherapy in patients with lung cancer*  
+K Wicks, R Holley, T Marchant, J Fenemore, C Barker, H Turner-Uaandja, G Price, C Faivre-Finn  
+Poster presentation at 21st Annual British Thoracic Oncology Group Conference, Belfast, April 2023.  
+Abstracted in Lung Cancer **178** (S1) S65 (2023).  
+[10.1016/S0169-5002(23)00576-7](https://doi.org/10.1016/S0169-5002(23)00576-7)  
+
+*Auto-contouring of cardiac avoidance region for cardiac sparing lung radiotherapy*  
+T Marchant, G Price, A McWilliam, E Henderson, D McSweeney, K Banfill, J King, 
+C Barker, C Faivre-Finn  
+Poster presentation at ESTRO 2023, Vienna, Austria, May 2023.
+Abstracted in Radiotherapy and Oncology **182** (S1) S1353.  
+[10.1016/S0167-8140(23)66568-5](https://doi.org/10.1016/S0167-8140(23)66568-5)  
+
+*Optimising heart substructure visibility in 4D planning CT by compensating respiratory motion*  
+M van Herk, T Marchant, E Henderson, D McSweeney, A Abravan, E Vasquez Osorio, A McWilliam, 
+C Faivre-Finn, G. Price  
+Poster presentation at ESTRO 2023, Vienna, Austria, May 2023.  
+Abstracted in Radiotherapy and Oncology **182** (S1) S1381.  
+[10.1016/S0167-8140(23)66591-0](https://doi.org/10.1016/S0167-8140(23)66591-0)  
+
+*Implementation of autocontouring for heart sparing lung radiotherapy*  
+T. Marchant  
+Invited presentation at UKIO 2023, Liverpool June 2023.  
+
 2022
 ----
 
