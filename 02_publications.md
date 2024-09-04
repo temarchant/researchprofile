@@ -21,13 +21,28 @@ K Banfill, M Schmitt, J King, C Barker, C Faivre-Finn
 BJR|Open **6** (1) tzae006 (2024)  
 [10.1093/bjro/tzae006](https://doi.org/10.1093/bjro/tzae006)  
 
+*Moving beyond mean heart dose: The importance of cardiac substructures in radiation therapy toxicity*  
+S Bowen Jones, T Marchant, C Saunderson, A McWilliam, K Banfill  
+Journal of Medical Imaging and Radiation Oncology (2024)  
+[10.1111/1754-9485.13737](https://doi.org/10.1111/1754-9485.13737)  
+
 *Clinical implementation of base of heart sparing for lung radiotherapy: effect on OAR doses*  
 T Marchant, G Price, A McWilliam, J Wood, K Banfill, C Faivre-Finn  
 Oral presentation at ESTRO 2024, Glasgow, UK, May 2024.  
+Abstracted in Radiotherapy & Oncology **194** (S1) S3470 (2024)  
+[10.1016/S0167-8140(24)00971-X](https://doi.org/10.1016/S0167-8140(24)00971-X)  
 
 *Performance of a heart substructures autocontouring tool after clinical implementation*  
 T Marchant, G Price, A McWilliam, K Banfill, M van Herk, C Faivre-Finn  
 Poster presentation at ESTRO 2024, Glasgow, UK, May 2024.  
+Abstracted in Radiotherapy & Oncology **194** (S1) S1861 (2024)  
+[10.1016/S0167-8140(24)02177-7](https://doi.org/10.1016/S0167-8140(24)02177-7)  
+
+*Can real-world data be used to assess toxicity of lung radiotherapy? A data quality audit*  
+Harry Crawford, Rebecca Holley, Danya Abdulwahid, Kathryn Banfill, Claire Barker, Neil Bayman, Clara Chan, Joanna Coote, Margaret Harris, Jennifer King, Tom Marchant, Catharine Morgan, Laura Pemberton, Hamid Sheikh, David Woolf, Corinne Faivre-Finn, Gareth Price  
+Poster presentation at ESTRO 2024, Glasgow, UK, May 2024.  
+Abstracted in Radiotherapy & Oncology **194** (S1) S1734 (2024)  
+[10.1016/S0167-8140(24)02557-X](https://doi.org/10.1016/S0167-8140(24)02557-X)  
 
 *Continuous monitoring using real-world data: Changes in organ at risk doses in lung 
 radiotherapy following introduction of a heart-sparing planning technique*  
