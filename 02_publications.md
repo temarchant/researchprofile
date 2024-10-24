@@ -26,6 +26,11 @@ S Bowen Jones, T Marchant, C Saunderson, A McWilliam, K Banfill
 Journal of Medical Imaging and Radiation Oncology (2024)  
 [10.1111/1754-9485.13737](https://doi.org/10.1111/1754-9485.13737)  
 
+*Brief report of a new anatomical region at risk in thoracic radiotherpy: from discovery to implementation*  
+K Banfill, T Marchant, A McWilliam, J Wood, M Schmitt, A Abravan, G Price, M van Herk, C Faivre-Finn  
+JTO Clinical and Research Reports, 100742 (2024)  
+[10.1016/j.jtocrr.2024.100742](https://doi.org/10.1016/j.jtocrr.2024.100742)  
+
 *Clinical implementation of base of heart sparing for lung radiotherapy: effect on OAR doses*  
 T Marchant, G Price, A McWilliam, J Wood, K Banfill, C Faivre-Finn  
 Oral presentation at ESTRO 2024, Glasgow, UK, May 2024.  
