@@ -14,6 +14,11 @@ list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchan
 2024
 ----
 
+*Guidance on auto-contouring in radiotherapy*  
+K Mackay, A Taylor, K Banfill, D Bernstein, J Daniel, P Diez, S Gwynne, A Hoole, R Jena, T Marchant, M Nix, G Price, M Teo  
+The Royal College of Radiologists (2024)  
+[https://www.rcr.ac.uk/our-services/all-our-publications/clinical-oncology-publications/auto-contouring-in-radiotherapy](https://www.rcr.ac.uk/our-services/all-our-publications/clinical-oncology-publications/auto-contouring-in-radiotherapy/)  
+
 *Assessment of heart-substructures auto-contouring accuracy for application in 
 heart-sparing radiotherapy for lung cancer*  
 T Marchant, G Price, A McWilliam, E Henderson, D McSweeney, M van Herk, 
