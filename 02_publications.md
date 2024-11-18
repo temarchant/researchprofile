@@ -33,7 +33,7 @@ Journal of Medical Imaging and Radiation Oncology (2024)
 
 *Brief report of a new anatomical region at risk in thoracic radiotherpy: from discovery to implementation*  
 K Banfill, T Marchant, A McWilliam, J Wood, M Schmitt, A Abravan, G Price, M van Herk, C Faivre-Finn  
-JTO Clinical and Research Reports, 100742 (2024)  
+JTO Clinical and Research Reports **5** (12) 100742 (2024)  
 [10.1016/j.jtocrr.2024.100742](https://doi.org/10.1016/j.jtocrr.2024.100742)  
 
 *Clinical implementation of base of heart sparing for lung radiotherapy: effect on OAR doses*  
