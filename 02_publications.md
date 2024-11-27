@@ -14,6 +14,11 @@ list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchan
 2024
 ----
 
+*Dosimetric impact of sparing base of heart on organ at risk doses during lung radiotherapy*  
+T Marchant, J Wood, K Banfill, A McWilliam, G Price, C Faivre-Finn  
+Radiotherapy & Oncology 110654 (2024)  
+[10.1016/j.randonc.2024.110654](https://doi.org/10.1016/j.randonc.2024.110654)  
+
 *Guidance on auto-contouring in radiotherapy*  
 K Mackay, A Taylor, K Banfill, D Bernstein, J Daniel, P Diez, S Gwynne, A Hoole, R Jena, T Marchant, M Nix, G Price, M Teo  
 The Royal College of Radiologists (2024)  
