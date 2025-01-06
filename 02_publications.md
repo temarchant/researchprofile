@@ -33,7 +33,7 @@ BJR|Open **6** (1) tzae006 (2024)
 
 *Moving beyond mean heart dose: The importance of cardiac substructures in radiation therapy toxicity*  
 S Bowen Jones, T Marchant, C Saunderson, A McWilliam, K Banfill  
-Journal of Medical Imaging and Radiation Oncology (2024)  
+Journal of Medical Imaging and Radiation Oncology **68** (8) 974-986 (2024)  
 [10.1111/1754-9485.13737](https://doi.org/10.1111/1754-9485.13737)  
 
 *Brief report of a new anatomical region at risk in thoracic radiotherpy: from discovery to implementation*  
