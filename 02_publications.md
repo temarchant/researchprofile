@@ -11,13 +11,28 @@ See also my [Google Scholar
 profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and [Manchester publications
 list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchant(962e3f0a-0217-4d2b-8028-22943cb08a9e)/publications.html).
 
-2024
+2025
 ----
 
 *Dosimetric impact of sparing base of heart on organ at risk doses during lung radiotherapy*  
 T Marchant, J Wood, K Banfill, A McWilliam, G Price, C Faivre-Finn  
-Radiotherapy & Oncology 110654 (2024)  
+Radiotherapy & Oncology 110654 (2025)  
 [10.1016/j.radonc.2024.110654](https://doi.org/10.1016/j.radonc.2024.110654)  
+
+*First RAPID-RT analysis: Using rapid-learning to assess the survival impact of a new cardiac avoidance area during lung cancer radiotherapy*  
+G Price, C Morgan, E van Kontopantelis, T van Staa, T Marchant, K Banfill, A Walker, R Holley, H Crawford, A McWilliam, M van Herk, N Bayman, D Woolf, C Barker, J King, C Chan, L Pemberton, J Coote, H Sheikh, D Abdulwahid, C Harris, J Wood, C Faivre-Finn  
+Oral presentation at ESTRO 2025, Vienna, Austria, May 2025.  
+Abstracted in Radiotherapy & Oncology **206** (S1) S4427-4429 (2025)  
+[10.1016/S0167-8140(25)04200-8](https://doi.org/10.1016/S0167-8140(25)04200-8)  
+
+*Dosimetric evaluation of two cardiac substructure segmentation approaches: walls versus chambers*  
+G Walls, T Marchant, A McWilliam, M van Herk, C Faivre-Finn, K Banfill  
+Oral presentation at ESTRO 2025, Vienna, Austria, May 2025.  
+Abstracted in Radiotherapy & Oncology **206** (S1) S2934-2935 (2025)  
+[10.1016/S0167-8140(25)03368-7](https://doi.org/10.1016/S0167-8140(25)03368-7)  
+
+2024
+----
 
 *Guidance on auto-contouring in radiotherapy*  
 K Mackay, A Taylor, K Banfill, D Bernstein, J Daniel, P Diez, S Gwynne, A Hoole, R Jena, T Marchant, M Nix, G Price, M Teo  
