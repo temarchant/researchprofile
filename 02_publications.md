@@ -19,6 +19,11 @@ T Marchant, J Wood, K Banfill, A McWilliam, G Price, C Faivre-Finn
 Radiotherapy & Oncology 110654 (2025)  
 [10.1016/j.radonc.2024.110654](https://doi.org/10.1016/j.radonc.2024.110654)  
 
+*Developing a prospective rapid-learning methodology to evaluate the survival impact of changing radiotherapy practice to include a new heart dose limit for patients with lung cancer in a UK specialist cancer centre (RAPID-RT): a protocol*  
+I Fornacon-Wood, R Holley, H Crawford, K Banfill, T Marchant, C Morgan, H Turner-Uaandja, A Walker, E Kontopantelis, T van Staa, S Devaney, S Holm, G Price, C Faivre-Finn  
+BMJ Open 15 e105519 (2025)  
+[10.1136/bmjopen-2025-105519](https://doi.org/10.1136/bmjopen-2025-105519)  
+
 *First RAPID-RT analysis: Using rapid-learning to assess the survival impact of a new cardiac avoidance area during lung cancer radiotherapy*  
 G Price, C Morgan, E van Kontopantelis, T van Staa, T Marchant, K Banfill, A Walker, R Holley, H Crawford, A McWilliam, M van Herk, N Bayman, D Woolf, C Barker, J King, C Chan, L Pemberton, J Coote, H Sheikh, D Abdulwahid, C Harris, J Wood, C Faivre-Finn  
 Oral presentation at ESTRO 2025, Vienna, Austria, May 2025.  
