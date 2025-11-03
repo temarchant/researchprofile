@@ -36,6 +36,12 @@ Oral presentation at ESTRO 2025, Vienna, Austria, May 2025.
 Abstracted in Radiotherapy & Oncology **206** (S1) S2934-2935 (2025)  
 [10.1016/S0167-8140(25)03368-7](https://doi.org/10.1016/S0167-8140(25)03368-7)  
 
+*RAPID-RT: Using Rapid-Learning to Assess the Survival Impact of Limiting Dose to a New Cardiac Avoidance Area During Lung Cancer Radiotherapy*  
+C Faivre-Finn, C Morgan, T Marchant, K Banfill, A Walker, A McWilliam, M van Herk, N Bayman, R Holley, D Woolf, C Barker, J King, C Chan, L Pemberton, J Coote, H Sheikh, D Abdulwahid, C Harris, J Wood, G Price  
+Oral presentation at World Conference on Lung Cancer 2025, Barcelona, Spain, Sept 2025.  
+Abstracted in Journal of Thoracic Oncology **20** (10 S1) S44-45(2025)  
+[10.1016/j.jtho.2025.09.085](https://doi.org/10.1016/j.jtho.2025.09.085) 
+
 2024
 ----
 
