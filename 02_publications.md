@@ -24,6 +24,11 @@ I Fornacon-Wood, R Holley, H Crawford, K Banfill, T Marchant, C Morgan, H Turner
 BMJ Open 15 e105519 (2025)  
 [10.1136/bmjopen-2025-105519](https://doi.org/10.1136/bmjopen-2025-105519)  
 
+*The concept of virtual clinical trials: A game changer in radiation oncology research?*  
+C Faivre-Finn, C Baker, C Dempsey, J Fisher, A Frangi, A Gosling, C Hiley, M Lowe, T Marchant, A McWilliam, G Price, R Rieu, M van Herk, E Vasquez Osorio, D Woolf, M Aznar  
+Radiotherapy & Oncology 111264 (2025)  
+[10.1016/j.radonc.2025.111264](https://doi.org/10.1016/j.radonc.2025.111264)  
+
 *First RAPID-RT analysis: Using rapid-learning to assess the survival impact of a new cardiac avoidance area during lung cancer radiotherapy*  
 G Price, C Morgan, E van Kontopantelis, T van Staa, T Marchant, K Banfill, A Walker, R Holley, H Crawford, A McWilliam, M van Herk, N Bayman, D Woolf, C Barker, J King, C Chan, L Pemberton, J Coote, H Sheikh, D Abdulwahid, C Harris, J Wood, C Faivre-Finn  
 Oral presentation at ESTRO 2025, Vienna, Austria, May 2025.  
