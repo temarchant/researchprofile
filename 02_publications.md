@@ -30,7 +30,7 @@ Radiotherapy & Oncology 111264 (2025)
 [10.1016/j.radonc.2025.111264](https://doi.org/10.1016/j.radonc.2025.111264)  
 
 *Individualised dose mapping uncertainty estimation in the reirradiation setting*  
-C Thiong’o, M van Herk, K Banfill, C Chan, C Harris, M Low, T Marchant, I Mohamed, G Motamedi-Ghahfarokhi, D Thomson, A Appelt, E Vasquez Osorio  
+C Thiong’o, M van Herk, K Banfill, C Chan, C Harris, M Lowe, T Marchant, I Mohamed, G Motamedi-Ghahfarokhi, D Thomson, A Appelt, E Vasquez Osorio  
 Physics and Imaging in Radiation Oncology 100881 (2025)  
 [10.1016/j.phro.2025.100881](https://doi.org/10.1016/j.phro.2025.100881)  
 
