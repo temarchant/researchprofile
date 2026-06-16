@@ -41,12 +41,7 @@ Radiotherapy & Oncology 111264 (2025)
 C Thiong’o, M van Herk, K Banfill, C Chan, C Harris, M Lowe, T Marchant, I Mohamed, G Motamedi-Ghahfarokhi, D Thomson, A Appelt, E Vasquez Osorio  
 Physics and Imaging in Radiation Oncology 100881 (2025)  
 [10.1016/j.phro.2025.100881](https://doi.org/10.1016/j.phro.2025.100881)  
-
-*Royal College of Radiologists guidance statements on the use of auto-contouring in radiotherapy*  
-K Mackay, K Banfill, D Bernstein, J Daniel, P Diez, S Gwynne, A Hoole, R Jena, T Marchant, M Nix, G Price, M Teo, I Boon, S Hindocha, J Wang, K Zucker, A Taylor  
-Clinical Oncology 104004 (2025)  
-[10.1016/j.clon.2025.104004](https://doi.org/10.1016/j.clon.2025.104004)  
-
+ 
 *First RAPID-RT analysis: Using rapid-learning to assess the survival impact of a new cardiac avoidance area during lung cancer radiotherapy*  
 G Price, C Morgan, E van Kontopantelis, T van Staa, T Marchant, K Banfill, A Walker, R Holley, H Crawford, A McWilliam, M van Herk, N Bayman, D Woolf, C Barker, J King, C Chan, L Pemberton, J Coote, H Sheikh, D Abdulwahid, C Harris, J Wood, C Faivre-Finn  
 Oral presentation at ESTRO 2025, Vienna, Austria, May 2025.  
