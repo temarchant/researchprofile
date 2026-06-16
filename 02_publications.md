@@ -84,6 +84,7 @@ BJR|Open **6** (1) tzae006 (2024)
 S Bowen Jones, T Marchant, C Saunderson, A McWilliam, K Banfill  
 Journal of Medical Imaging and Radiation Oncology **68** (8) 974-986 (2024)  
 [10.1111/1754-9485.13737](https://doi.org/10.1111/1754-9485.13737)  
+(Wiley Top Viewed Article in Journal of Medical Imaging and Radiation Oncology 2024)  
 
 *Brief report of a new anatomical region at risk in thoracic radiotherpy: from discovery to implementation*  
 K Banfill, T Marchant, A McWilliam, J Wood, M Schmitt, A Abravan, G Price, M van Herk, C Faivre-Finn  
@@ -785,7 +786,7 @@ Stratford, McCarthy C, Porritt B, Williams P, Khoo V and Price P
 Intl Jnl Rad Oncol Biol Phys, 64(2) 625-634 (2006)  
 doi:[10.1016/j.ijrobp.2005.09.018](http://dx.doi.org/10.1016/j.ijrobp.2005.09.018)  
 (ScienceDirect Top 25 Hottest Articles: Int Jnl Radiat Oncol Biol Phys,
-Jan-Mar 20006)
+Jan-Mar 2006)
 
 *Online adaptive radiotherapy of the bladder: Small bowel
 irradiated-volume reduction*  
