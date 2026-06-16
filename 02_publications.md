@@ -11,6 +11,14 @@ See also my [Google Scholar
 profile](http://scholar.google.com/citations?hl=en&user=xvosebYAAAAJ) and [Manchester publications
 list](https://www.research.manchester.ac.uk/portal/en/researchers/thomas-marchant(962e3f0a-0217-4d2b-8028-22943cb08a9e)/publications.html).
 
+2026
+----
+
+*Royal College of Radiologists Guidance Statements on the Use of Auto-contouring in Radiotherapy*  
+K Mackay, K Banfill, D Bernstein, J Daniel, P Diez, S Gwynne, A Hoole, R Jena, T Marchant, M Nix, G Price, M Teo, I Boon, S Hindocha, J Wang, K Zucker, A Taylor  
+Clinical Oncology 50 (104004) (2026)  
+[10.1016/j.clon.2025.104004](https://doi.org/10.1016/j.clon.2025.104004)  
+
 2025
 ----
 
