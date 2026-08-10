@@ -19,6 +19,12 @@ K Mackay, K Banfill, D Bernstein, J Daniel, P Diez, S Gwynne, A Hoole, R Jena, T
 Clinical Oncology 50 (104004) (2026)  
 [10.1016/j.clon.2025.104004](https://doi.org/10.1016/j.clon.2025.104004)  
 
+*The relationship between cardiovascular disease and survival in patients having cardiac avoidance radiotherapy for lung cancer*  
+C Morgan, C Faivre-Finn, G Price, E Kontopantelis, T Van Staa, T Marchant, R Holley, K Banfill  
+Presented at ESC Cardio-Oncology 19-20 June 2026 Vienna, Austria.  
+Abstracted in European Heart Journal Supplements **28** (Supplement_8) suag097.091 (2026)  
+[10.1093/eurheartjsupp/suag097.091](https://doi.org/10.1093/eurheartjsupp/suag097.091) 
+
 2025
 ----
 
