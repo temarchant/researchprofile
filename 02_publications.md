@@ -19,6 +19,11 @@ T Marchant, G Radhakrishna, H Sheikh, C Faivre-Finn, G Price, A McWilliam
 Radiotherapy and Oncology 111770 (2026)  
 [10.1016/j.radonc.2026.111770](https://doi.org/10.1016/j.radonc.2026.111770)  
 
+*Drivers of change in radiotherapy practice: lessons from a UK tertiary cancer centre (2013–2023)*  
+A Kapadi, G Price, C Faivre-Finn, R Holley, K Banfill, G Walls, T Marchant, G Radhakrishna, J Price, A Choudhary, C Anandadas, G Borst, G Whitfield, D French  
+Clinical Oncology 104342 (2026)  
+[10.1016/j.clon.2026.104342](https://doi.org/10.1016/j.clon.2026.104342)  
+
 *Royal College of Radiologists Guidance Statements on the Use of Auto-contouring in Radiotherapy*  
 K Mackay, K Banfill, D Bernstein, J Daniel, P Diez, S Gwynne, A Hoole, R Jena, T Marchant, M Nix, G Price, M Teo, I Boon, S Hindocha, J Wang, K Zucker, A Taylor  
 Clinical Oncology 50 (104004) (2026)  
